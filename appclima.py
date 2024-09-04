@@ -1,4 +1,4 @@
-#importamo la librerias necesarias
+#importamos la librerias necesarias
 import requests 
 import json
 from googletrans import Translator

@@ -4,6 +4,16 @@
 
 Este proyecto es un ejemplo de cómo utilizar Git y GitHub para gestionar un proyecto de código abierto.
 
+## Intalar dependecias
+*Es necesario instalar las dependecias 
+*pip intall argparse
+*pip intall requests
+*pip install --upgrade googletrans==4.0.0-rc1
+
+## Ejecutar setup.bat
+
+*Al ejecutar setup.bat en la terminal deberia intalar todas las dependecias necesarias
+
 ## Características
 
 * Utiliza Git para controlar versiones
